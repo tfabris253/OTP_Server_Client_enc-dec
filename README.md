@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/bN_InktM)
+
 # Assignment 5 / Final Project: One-Time Pads
 
 	This project utilizes C server/client setups to communicate with one another using one-time pads (OTP) encryption
